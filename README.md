@@ -3,8 +3,6 @@
 **Meyta** here! 🚀 Crafting elegant code by day, and grooving to the rhythm of life (and good music!) by night 🎼🎧. 
 Final-year Informatics student with a love for all things software engineering 👩‍💻. Let's build something awesome together!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=meytanggrn&show_icons=true&hide_border=true">
-
 ## 🧐 About
 - 👨‍💻 My blog: https://meytanggrn.blogspot.com/
 - 📫 How to reach me: meytanggrn@gmail.com
